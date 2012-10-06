@@ -1,3 +1,5 @@
 `dump.py` is for dumping zakupki.gov.ru site
 
-`findsuspicious.py` finds entries with suspicious latin and cyrillic letter combinations.
+`findsuspicious.py` finds entries with suspicious latin and cyrillic letter combinations
+
+Kind of worked [https://twitter.com/ipasserby/status/237504103901712384]() :)
